@@ -110,7 +110,7 @@ def PGD(image, label, model, input):
     return starting_img
 
 
-def getMetric(model_path):
+def getMetric(model_path,epsilon):
     MASK_PATH = r'ADD'.replace("\\", "/")
     IMAGE_PATH = r'ADD'.replace("\\", "/")
     val_ids_img = next(os.walk(MASK_PATH))[2]
