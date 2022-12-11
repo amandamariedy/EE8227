@@ -5,7 +5,7 @@ Dataset 1 can be downloaded from https://www.kaggle.com/datasets/tawsifurrahman/
 
 Dataset 2 and 3 can be downloaded from https://www.kaggle.com/code/eduardomineo/u-net-lung-segmentation-montgomery-shenzhen
 
-Step 1: Download all datasets 
+Step 1: Download all datasets. 
 
 Step 2: Run "TrainUnet.py" 2 times using Dataset 1. This will produce models 1 and 4. You must change path files in lines 135, 136, 253, 270, 271. Change model names in line 251 and 252 accordingly. The file is currently set up for training on clean images. If you want to train on adversarial examples then uncomment lines 247-248, 262-267 and comment out line 256.
 
