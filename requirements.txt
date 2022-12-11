@@ -69,9 +69,6 @@ Jinja2 @ file:///opt/conda/conda-bld/jinja2_1647436528585/work
 jinja2-time @ file:///opt/conda/conda-bld/jinja2-time_1649251842261/work
 joblib @ file:///C:/b/abs_e60_bwl1v6/croot/joblib_1666298845728/work
 jsonschema @ file:///C:/ci/jsonschema_1650008058746/work
-jupyter-core @ file:///C:/ci/jupyter_core_1651638076360/work
-jupyter_client @ file:///C:/b/abs_8fbm7986b_/croots/recipe/jupyter_client_1662504374117/work
-jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
 keras==2.9.0
 Keras-Preprocessing==1.1.2
 keras-unet==0.1.2
@@ -113,8 +110,6 @@ partd @ file:///opt/conda/conda-bld/partd_1647245470509/work
 pathspec @ file:///C:/Windows/TEMP/abs_581d0u45mh/croots/recipe/pathspec_1659627132171/work
 patsy==0.5.2
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-Pillow==9.2.0
 platformdirs @ file:///C:/b/abs_73cc5cz_1u/croots/recipe/platformdirs_1662711386458/work
 pluggy @ file:///C:/ci/pluggy_1648042746254/work
 poyo @ file:///tmp/build/80754af9/poyo_1617751526755/work
@@ -148,9 +143,6 @@ pywin32==302
 pywin32-ctypes @ file:///C:/ci_310/pywin32-ctypes_1642657835512/work
 PyYAML==6.0
 pyzmq @ file:///C:/ci/pyzmq_1657616000714/work
-QDarkStyle @ file:///tmp/build/80754af9/qdarkstyle_1617386714626/work
-qstylizer @ file:///tmp/build/80754af9/qstylizer_1617713584600/work/dist/qstylizer-0.1.10-py2.py3-none-any.whl
-QtAwesome @ file:///tmp/build/80754af9/qtawesome_1637160816833/work
 qtconsole @ file:///opt/conda/conda-bld/qtconsole_1643819126524/work
 QtPy @ file:///C:/ci/qtpy_1662015130233/work
 requests @ file:///C:/ci/requests_1657735340829/work
