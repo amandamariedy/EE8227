@@ -1,5 +1,5 @@
 # EE8227
-Effects of Adversarial Training and Adversarial Fine-Tuning U-Net for Semantic Segmentation
+Adversarial Training for Generalization of Deep-Learning Medical Segmentation
 
 Dataset 1 can be downloaded from https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
 
