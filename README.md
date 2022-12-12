@@ -1,5 +1,4 @@
-# EE8227
-Adversarial Training for Generalization of Deep-Learning Medical Segmentation
+# EE8227: Adversarial Training for Generalization of Deep-Learning Medical Segmentation
 
 Dataset 1 can be downloaded from https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
 
